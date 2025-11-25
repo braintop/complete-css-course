@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.box {
+  background-color: lightblue;
+  border: 2px solid blue;
+}
+
+/* 1️⃣ Small margin all around */
+.box-one {
+  margin: 10px;
+}
+
+/* 2️⃣ Bigger top margin, medium left margin */
+.box-two {
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+/* 3️⃣ Large left margin only (no top margin) */
+.box-three {
+  margin-left: 80px;
+}
+

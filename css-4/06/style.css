@@ -1,0 +1,13 @@
+h1 {
+  font-family: Arial, Verdana, "Trebuchet MS", sans-serif; /* sans-serif stack */
+  font-weight: bold;                                      /* emphasis */
+  font-style: italic;                                     /* emphasis */
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;  /* serif stack */
+  line-height: 1.8;
+}
+
+
+

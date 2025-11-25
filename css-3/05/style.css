@@ -1,0 +1,9 @@
+.solid{
+    border: 2px solid black;
+}
+.dotted{
+    border: 2px dotted black;
+}
+.double{
+    border: 2px double black;
+}

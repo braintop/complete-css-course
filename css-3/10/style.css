@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6;
+}
+
+.box {
+  border: 2px solid #111827;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 24px auto;   /* balanced base spacing between boxes */
+}
+
+.box-one {
+  padding: 12px 16px;
+  background-color: #fee2e2;  /* soft red */
+}
+
+.box-two {
+  padding: 20px 24px;
+  background-color: #d1fae5;  /* soft green */
+}
+
+.box-three {
+  padding: 28px 32px;
+  background-color: #dbeafe;  /* soft blue */
+  margin-bottom: 40px;        /* a bit more space at the end */
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+p {
+  margin: 0;
+  line-height: 1.6;
+}
+

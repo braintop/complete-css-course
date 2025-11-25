@@ -1,0 +1,7 @@
+.item {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  background-color: lightgreen;
+  margin: 5px;
+}

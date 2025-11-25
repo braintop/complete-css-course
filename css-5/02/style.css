@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  height: 2000px; /* so you can scroll */
+}
+
+.box {
+  width: 180px;
+  height: 80px;
+  padding: 10px;
+  border: 2px solid black;
+  background-color: lightblue;
+  margin-bottom: 16px;
+}
+
+.box-static {
+  position: static; /* default, stays in normal flow */
+}
+
+.box-relative {
+  position: relative;
+  top: 20px;   /* moves down from its normal spot */
+  left: 40px;  /* moves right from its normal spot */
+  background-color: lightgreen;
+}
+
+.box-absolute {
+  position: absolute;
+  top: 40px;
+  right: 20px;
+  background-color: lightcoral;
+}
+
+.filler {
+  margin-top: 200px;
+}
+

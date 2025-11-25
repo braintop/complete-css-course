@@ -1,0 +1,20 @@
+.box {
+  padding: 20px;               /* same padding */
+  border: 2px solid black;     /* same border */
+  background-color: lightblue; /* same background */
+}
+
+.box-left {
+  margin-right: 40px;          /* extra space to the right */
+}
+
+.box-right {
+  margin-left: 10px;           /* small space on the left */
+}
+
+.box-centered {
+  display: block;
+  width: 200px;
+  margin: 40px auto;           /* centers the box horizontally */
+}
+

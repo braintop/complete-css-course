@@ -1,0 +1,11 @@
+
+.banner {
+  background-color: lightblue;
+  width: 80%;
+  height: 120px;
+  margin: auto;
+  text-align: center;
+  line-height: 120px; /* centers text vertically */
+  border-radius: 10px;
+}
+

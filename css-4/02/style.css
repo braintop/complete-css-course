@@ -1,0 +1,12 @@
+h1 {
+  color: darkblue;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+ p {
+  color: #444;
+  font-size: 18px;
+  line-height: 2;
+  text-align: left;
+}

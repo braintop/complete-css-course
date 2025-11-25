@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  background-color: #f3f4f6;
+  color: #111827;
+}
+
+header {
+  text-align: center;
+  padding: 32px 16px 16px;
+}
+
+h1 {
+  margin-bottom: 8px;
+  font-size: 2.2rem;
+  color: #1f2937;
+}
+
+.intro {
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+.profile-card {
+  width: 320px;
+  height: 220px;
+  margin: 24px auto;
+  padding: 16px 20px;
+  border: 2px solid #3b82f6;
+  border-radius: 12px;
+  background-color: #e0f2fe;
+  box-shadow: 0 6px 16px rgba(15, 23, 42, 0.12);
+}
+
+.profile-card h2 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 1.4rem;
+}
+
+.profile-card p {
+  margin: 4px 0;
+}
+
+.profile-link {
+  display: inline-block;
+  margin-top: 12px;
+  color: #1d4ed8;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.profile-link:hover {
+  color: #2563eb;
+  text-decoration: underline;
+}
+
+.hobbies,
+.movies {
+  max-width: 600px;
+  margin: 24px auto;
+  padding: 0 16px;
+}
+
+h2 {
+  margin-bottom: 8px;
+  color: #111827;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #ffffff;
+}
+
+th,
+td {
+  border: 1px solid #d1d5db;
+  padding: 8px 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #e5e7eb;
+}
+
+.movies ul {
+  padding-left: 20px;
+  line-height: 1.7;
+}
+

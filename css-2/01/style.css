@@ -1,0 +1,10 @@
+/* Make the title blue */
+h1 {
+  color: blue;
+}
+
+/* Paragraph in a HEX color of my choice */
+p {
+  color: #e63946;
+}
+
